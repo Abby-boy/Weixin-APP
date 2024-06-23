@@ -21,11 +21,11 @@ npm install  /*安装模板*/
 
 <div style="text-align:center">1.微信公众平台-->开发-->开发管理</div>
 
-![权限管理.png](.\image\权限管理.png)
+![权限管理.png](./image/权限管理.png)
 
 <div style="text-align:center">2.申请wx.chooseLocation地址获取权限</div>
 
-![权限开通.png](.\image\权限开通.png)
+![权限开通.png](./image/权限开通.png)
 
 <div style="text-align:center">3.开通腾讯为地址服务-->控制台</div>
 
