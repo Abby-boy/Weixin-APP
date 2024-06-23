@@ -12,11 +12,32 @@
 
 ```
 npm init -y  /*生成package.json文件*/   
+npm install  /*安装模板*/
 ```
 
 
 
+## 腾讯为地址服务
 
+<div style="text-align:center">1.微信公众平台-->开发-->开发管理</div>
+
+![开发管理](.\image\权限管理.png)
+
+<div style="text-align:center">2.申请wx.chooseLocation地址获取权限</div>
+
+![权限开通](.\image\权限开通.png)
+
+<div style="text-align:center">3.开通腾讯为地址服务-->控制台</div>
+
+![](.\image\微地址控制台.png)
+
+<div style="text-align:center">4.（中间需要自己去按步骤申请自己密钥和需要开发的微信公众平台账号）添加项目</div>
+
+![添加项目](.\image\设置项目.png)
+
+<div style="text-align:center">5.寻找需要的功能进行名额分配</div>
+
+![地址解析服务](.\image\获取权限.png)
 
 ## 效果浏览
 
